@@ -1,6 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello");
+    // printing
+    int var = 10;
+    printf("%d", var);
+    printf("\nHello");
     return 0;
 }
