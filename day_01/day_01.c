@@ -11,3 +11,5 @@ int main() {
     printf("\nHello"); // print with escape sequence "\n"
     return 0;
 }
+
+// variable and commets
